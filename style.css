@@ -361,7 +361,7 @@ section {
   }
   .home {
     grid-template-columns: 1fr;
-    grid-gap: 1rem;
+    grid-gap: 2rem;
     text-align: center;
     height: 100vh;
     width: 100%;
@@ -370,7 +370,7 @@ section {
 
   .home-text {
     order: 2;
-    bottom: 50rem;
+    bottom: 60rem;
     max-width: 100vw;
   }
 
@@ -390,10 +390,10 @@ section {
     max-width: 100vw;
   }
 
-  .home-img{
+  .home-img {
     max-width: 100vw;
     height: auto;
-    transform: translate(15%, -80%);
+    transform: translate(15%, -100%);
     width: 80%;
   }
 
