@@ -358,6 +358,7 @@ section {
 @media (max-width: 600px) {
   .wrapper {
     max-width: 100vw;
+    overflow-x: hidden;
   }
   .home {
     grid-template-columns: 1fr;
